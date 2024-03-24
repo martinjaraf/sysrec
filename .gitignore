@@ -1,0 +1,6 @@
+# Ignorar todos los archivos Excel
+*.xlsx
+*.xls
+
+# Ignorar todos los archivos CSV
+*.csv
